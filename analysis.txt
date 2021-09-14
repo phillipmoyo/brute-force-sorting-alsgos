@@ -1,0 +1,5 @@
+(a) Which sort had the best performance empirically?
+->bubble sort with escaption clause
+
+(b) Why might this be the case? Provide a reason.
+->selection sort and bubble sort had to finish sorting in O(n^2) even if the was no swap in some round of sorting in the loop
